@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kontrast\n"
+"POT-Creation-Date: 2016-03-22 19:10+0100\n"
+"PO-Revision-Date: 2017-02-07 23:53+0000\n"
+"Last-Translator: Webmaster JBC <webmaster@editorajbc.com.br>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1"
+
+#: ../404.php:14
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"A página que você está tentando acessar não existe ou foi movida. Por favor, "
+"use os menus ou a caixa de busca para encontrar o conteúdo que você procura."
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "Sem Respostas"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 Resposta"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% Respostas"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "Comentários"
+
+#: ../comments.php:11
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: ../footer.php:76
+msgid "All Rights Reserved."
+msgstr "Todos os Direitos Reservados."
+
+#: ../footer.php:82
+msgid "Powered by"
+msgstr "Provido por"
+
+#: ../footer.php:82
+msgid "Theme by"
+msgstr "Tema por"
+
+#: ../search.php:10
+msgid "For the term"
+msgstr "Para o termo"
+
+#: ../search.php:12
+msgid "Please try another search:"
+msgstr "Por favor, tente outra busca:"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "Para buscar, digite e tecle enter"
+
+#: ../sidebar-2.php:5 ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "Expandir barra lateral"
+
+#: ../single.php:14
+msgid "by"
+msgstr "por"
+
+#: ../single.php:23
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: ../single.php:35
+msgid "Tags:"
+msgstr "Tags:"
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "Postagens recentes"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "Postagens Populares"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "Comentários Recentes"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "Tags"
+
+#: ../functions/widgets/alx-tabs.php:187
+msgid "says:"
+msgstr "diz:"
+
+#: ../inc/page-title.php:23
+msgid "Search result"
+msgstr "Resultado da busca"
+
+#: ../inc/page-title.php:25
+msgid "Search results"
+msgstr "Resultados da busca"
+
+#: ../inc/page-title.php:31
+msgid "Error 404."
+msgstr "Erro 404."
+
+#: ../inc/page-title.php:31
+msgid "Page not found!"
+msgstr "Página não encontrada!"
+
+#: ../inc/page-title.php:35
+msgid "Author:"
+msgstr "Autor:"
+
+#: ../inc/page-title.php:38
+msgid "Category:"
+msgstr "Categoria:"
+
+#: ../inc/page-title.php:41
+msgid "Tagged:"
+msgstr "Tagged:"
+
+#: ../inc/page-title.php:44
+msgid "Daily Archive:"
+msgstr "Arquivo Diário:"
+
+#: ../inc/page-title.php:47
+msgid "Monthly Archive:"
+msgstr "Arquivo Mensal:"
+
+#: ../inc/page-title.php:50
+msgid "Yearly Archive:"
+msgstr "Arquivo anual:"
+
+#: ../inc/post-nav.php:3
+msgid "Next story"
+msgstr "Próxima notícia"
+
+#: ../inc/post-nav.php:4
+msgid "Previous story"
+msgstr "Notícia anterior"
+
+#: ../inc/related-posts.php:6
+msgid "You may also like..."
+msgstr "Você também pode se interessar por..."
+
+#: ../inc/sharrre.php:2
+msgid "Share"
+msgstr "Compartilhar"
